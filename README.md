@@ -18,6 +18,10 @@ Cenários:
 ## ⚙ Configuração
 
 1- Para instalar as dependências:
+
+Cypress:
+> npm install cypress
+> 
 Faker:
 >  yarn add --dev @faker-js/faker
 2- Para iniciar a aplicação:
