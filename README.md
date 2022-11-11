@@ -17,13 +17,12 @@ Cenários:
 <div align="center" >
   1. Login com sucesso efetuando a compra de um produto e validar a mensagem: "THANK YOU FOR YOUR ORDER"
    <br>
-  <img src="./login.gif" alt="demo-web" height="425">
+  <img src="./Teste-full.gif" alt="demo-web" height="425">
 </div>
 <br>
 <div align="center" >
   2. Efetuar Login com sucesso e Login com senha inválida
-  <img src="./teste.gif" alt="demo-web" height="425">
-  <img src="./order.gif" alt="demo-web" height="425">
+  <img src="./teste-falha.gif" alt="demo-web" height="425">
 </div>
 
 ## ⚙ Configuração
