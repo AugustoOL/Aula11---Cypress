@@ -18,7 +18,8 @@ Cenários:
 ## ⚙ Configuração
 
 1- Para instalar as dependências:
-> 
+Faker:
+>  yarn add --dev @faker-js/faker
 2- Para iniciar a aplicação:
 
 
