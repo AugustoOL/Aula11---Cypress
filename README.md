@@ -10,7 +10,7 @@ O projeto consiste em automatizar os cenários descritos abaixo da aplicação h
 
 Cenários:
 1. Login com sucesso efetuando a compra de um produto e validar a mensagem: "THANK YOU FOR YOUR ORDER"
-2. Login com senha inválida
+2. Efetuar Login com sucesso e Login com senha inválida
 
 ## :camera: Demonstração
 
